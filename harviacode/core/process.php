@@ -64,7 +64,7 @@ if (isset($_POST['generate']))
         }
 
 
-        
+
         include 'core/create_view_form.php';
         include 'core/create_view_read.php';
 
